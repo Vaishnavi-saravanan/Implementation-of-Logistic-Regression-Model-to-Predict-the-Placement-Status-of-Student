@@ -94,26 +94,37 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-HEAD OF THE DATA :
+# HEAD OF THE DATA :
 ![Screenshot 2023-09-05 153300](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/5c3576b4-f2ce-404e-b572-d6abe32886e8)
-COPY HEAD OF THE DATA :
+
+
+# COPY HEAD OF THE DATA :
 ![Screenshot 2023-09-05 153312](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/0b5d7591-11cf-4844-b89d-1940f07d1253)
-NULL AND SUM :
+
+
+# NULL AND SUM :
 ![Screenshot 2023-09-05 153320](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/764eff2d-fff3-426f-b786-24e4d99ebd64)
-DUPLICATED :
+
+
+# DUPLICATED :
 ![Screenshot 2023-09-05 153331](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/778be6b7-c7bf-498d-b6a4-e26bc68ce5cb)
-X VALUE :
+
+# X VALUE :
 ![Screenshot 2023-09-05 153349](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/362a759a-bad9-4b57-a328-ac84f99512cb)
-Y VALUE :
+
+# Y VALUE :
 ![Screenshot 2023-09-05 153355](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/a9ed480d-b0fc-45b1-878b-945962687b24)
-PREDICTED VALUES :
+
+# PREDICTED VALUES :
 ![Screenshot 2023-09-05 153404](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/c44241d5-79c9-4af3-8037-d587232f708a)
-ACCURACY :
+
+# ACCURACY :
 ![Screenshot 2023-09-05 153643](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/8f15756a-6cc1-4044-8d14-4c984b106547)
-CONFUSION MATRIX :
+
+# CONFUSION MATRIX :
 ![Screenshot 2023-09-05 153648](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/c8ff8fcb-63a1-4de4-9a2a-52eff7ce0075)
 ![Screenshot 2023-09-05 153717](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/b8960013-4d5e-46de-9043-54a4f0864448)
-CLASSIFICATION REPORT :
+# CLASSIFICATION REPORT :
 ![Screenshot 2023-09-05 154014](https://github.com/Vaishnavi-saravanan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541897/bbf79709-eba0-437b-918e-b0c297b66ee3)
 
 # RESULT :
